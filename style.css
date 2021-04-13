@@ -1,0 +1,103 @@
+html {
+    height:130%;
+    width:auto;
+    padding: auto;
+}
+body {
+    background-color: black;
+    background-image: url(images/Schieramento-Gamma-Trofeo-2.jpg);
+    background-size:cover ;
+    background-position:inherit;
+    background-repeat: no-repeat;
+
+    
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+header {
+    
+    height: 118px;
+    padding:auto;
+}
+nav {
+    background-color: rgba(0, 0, 0, 0.404);
+    text-align: center;
+    padding-top: 14px;
+    padding-bottom: 14px;
+}
+main {
+
+    height: 400px;
+    padding-top: 0px;
+    padding-left: 400px;
+    padding-right: 100px;
+    padding-bottom: 100px;
+}
+footer {
+    background-color:rgba(82, 75, 75, 0.466);
+    height: 100px;
+
+}
+h1 {
+    color: white;
+    font-size: 50px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-top: 0px;
+    padding-bottom: 300px;
+}
+
+p {
+    color:white;
+    font-size: 25px;
+    font-variant: small-caps;
+    text-align:center;
+    padding-right: 150px;
+}
+
+a {
+    color:white;
+    text-align:justify;
+    
+
+}
+nav a {
+    color:white;
+    text-decoration: none;
+    font-size: 15px;
+    padding-left:10px;
+    padding-right: 10px;
+   
+}
+main a{
+    text-align: center;
+    padding-top:50px;
+    padding-bottom:50px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+footer p {
+    color:white;
+    font-size: 15px;
+    text-align: center;
+    padding-right: 10px;
+}   
+
+.maps {
+    padding-bottom: 100px;
+    
+}
+
+.Make-a-Meet {
+    color: white;
+    max-width: 350px;
+    border: lpx solid #eef1f54d;
+    margin: 10% auto 0;
+    text-align: center;
+    
+}
+
+
